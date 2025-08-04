@@ -13,7 +13,6 @@
   </a>
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Arnzz" />
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet" alt="AI/ML Badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Explorer-darkred" alt="Cyber Badge" />
 </p>
 
 
